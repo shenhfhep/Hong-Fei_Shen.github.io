@@ -21,7 +21,7 @@ repository               : "shenhfhep/Hong-Fei_Shen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" #头像
+  avatar           : "https://s21.ax1x.com/2024/10/17/pAUkAPO.jpg" #头像
   name             : "Hong-Fei Shen"
   pronouns         : "he" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
