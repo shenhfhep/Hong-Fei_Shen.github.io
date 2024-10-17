@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.101902
 excerpt: 'Actual first author and corresponding author'
-date: 2024-09-04
+date: 2023-08-01
 venue: 'Physical Review D (Letter)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://journals.aps.org/prd/pdf/10.1103/PhysRevD.108.L031106'
