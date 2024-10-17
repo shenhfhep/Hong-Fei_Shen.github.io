@@ -4,7 +4,7 @@ title: "Strong and Weak $CP$ Tests in Sequential Decays of Polarized Sigma0 Hype
 collection: publications
 category: manuscripts
 permalink: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.101902
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Actual first author and corresponding author (BESIII  Collaboration)'
 date: 2024-09-04
 venue: 'Physical Review Letters '
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
