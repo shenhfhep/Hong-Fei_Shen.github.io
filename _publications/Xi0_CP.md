@@ -2,7 +2,7 @@
 title: "Tests of CP symmetry in entangled Xi0 Xi0bar pairs"
 collection: publications
 category: manuscripts
-permalink: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.101902
+permalink: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.L031106
 excerpt: 'Actual first author and corresponding author'
 date: 2023-08-01
 venue: 'Physical Review D (Letter & Editor`s Suggestion)'
