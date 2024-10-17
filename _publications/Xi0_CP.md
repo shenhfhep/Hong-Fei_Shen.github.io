@@ -1,5 +1,5 @@
 ---
-title: "STests of CP symmetry in entangled Xi0-Xi0bar pairs"
+title: "Tests of CP symmetry in entangled Xi0-Xi0bar pairs"
 collection: publications
 category: manuscripts
 permalink: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.L031106
