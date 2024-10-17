@@ -1,5 +1,4 @@
 ---
-
 title: "Strong and Weak CP Tests in Sequential Decays of Polarized Sigma0 Hyperons"
 collection: publications
 category: manuscripts
