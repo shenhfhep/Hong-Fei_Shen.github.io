@@ -1,11 +1,15 @@
 ---
-title: "Strong and Weak $CP$ Tests in Sequential Decays of Polarized Sigma0 Hyperons"
 
-Journal: Physical Review Letters
-date: Sep 4, 2024
-Author Contributions: First author & corresponding author
-Collaboration: BESIII  Collaboration
-url: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.101902'
+title: "Strong and Weak $CP$ Tests in Sequential Decays of Polarized Sigma0 Hyperons"
+collection: publications
+category: manuscripts
+permalink: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.101902
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2024-09-04
+venue: 'Physical Review Letters '
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.133.101902'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 
 ---
 
