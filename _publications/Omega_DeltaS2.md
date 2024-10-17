@@ -2,7 +2,7 @@
 title: "Search for DeltaS = 2 nonleptonic hyperon decays of Omega- to Sigma0 pi- and Omega- to n K-"
 collection: publications
 category: manuscripts
-permalink: https://link.springer.com/content/pdf/10.1007/JHEP05(2024)141.pdf
+permalink: https://link.springer.com/article/10.1007/JHEP05(2024)141
 excerpt: 'Corresponding author'
 date: 2024-05-13
 venue: 'Journal of High Energy Physics'
