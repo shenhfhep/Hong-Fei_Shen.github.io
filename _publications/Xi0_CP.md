@@ -9,7 +9,6 @@ venue: 'Physical Review D (Letter)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://journals.aps.org/prd/pdf/10.1103/PhysRevD.108.L031106'
 citation: 'BESIII  Collaboration, Phys. Rev. D 108 (2023) 3, L031106.'
-This paper has been selected as an Editor's suggestion.
 
 ---
 
