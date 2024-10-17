@@ -2,12 +2,12 @@
 title: "Strong and Weak CP Tests in Sequential Decays of Polarized Sigma0 Hyperons"
 collection: publications
 category: manuscripts
-permalink: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.101902
+permalink: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.133.101902
 excerpt: 'Actual first author and corresponding author'
 date: 2024-09-04
 venue: 'Physical Review Letters '
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.133.101902'
+paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.101902'
 citation: 'BESIII  Collaboration, Phys. Rev. Lett. 133 (2024) 10, 101902.'
 
 ---
