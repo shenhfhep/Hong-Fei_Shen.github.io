@@ -2,12 +2,13 @@
 title: "Tests of CP symmetry in entangled Xi0 Xi0bar pairs"
 collection: publications
 category: manuscripts
-permalink: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.L031106
+permalink: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.101902
 excerpt: 'Actual first author and corresponding author'
-date: 2023-08-01
-venue: 'Physical Review D (Letter & Editors' Suggestion)'
-paperurl: 'https://journals.aps.org/prd/pdf/10.1103/PhysRevD.108.L031106'
-citation: 'BESIII  Collaboration, Phys. Rev. D 108 (2023) 3, L031106.'
+date: 2024-09-04
+venue: 'Physical Review Letters '
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.133.101902'
+citation: 'BESIII  Collaboration, Phys. Rev. Lett. 133 (2024) 10, 101902.'
 
 ---
 
