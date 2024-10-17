@@ -1,5 +1,5 @@
 ---
-title: "Strong and Weak $CP$ Tests in Sequential Decays of Polarized $\Sigma^0$ Hyperons"
+title: "Strong and Weak $CP$ Tests in Sequential Decays of Polarized $Sigma^0$ Hyperons"
 
 Journal: Physical Review Letters
 date: Sep 4, 2024
