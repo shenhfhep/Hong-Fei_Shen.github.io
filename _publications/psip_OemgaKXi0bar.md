@@ -2,7 +2,7 @@
 title: "Observation of psip to Omega- K+ Xi0bar + c.c."
 collection: publications
 category: manuscripts
-permalink: https://link.springer.com/article/10.1007/JHEP04(2024)013
+permalink: https://link.springer.com/content/pdf/10.1007/JHEP04(2024)013.pdf
 excerpt: 'Corresponding author'
 date: 2024-04-03
 venue: 'Journal of High Energy Physics'
