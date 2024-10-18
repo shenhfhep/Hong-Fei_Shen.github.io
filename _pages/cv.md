@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Experimental Particle Physics, Institute of High Energy Physics, 2023
-* B.S. of Science, Soochow University, 2018
+* B.S. in Science, Soochow University, 2018
 
 Work experience
 ======
