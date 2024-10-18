@@ -47,7 +47,7 @@ Award
 ======
 * BESIII PhD Thesis Award 2023
 
-Fonds
+Funds
 ======
 * Special Research Assistant of the Chinese Academy of Sciences, 800,000 RMB
 * Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation, 240,000 RMB
