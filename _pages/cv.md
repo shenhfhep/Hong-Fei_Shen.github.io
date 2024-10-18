@@ -49,9 +49,9 @@ Award
 
 Funds
 ======
-* Special Research Assistant of the Chinese Academy of Sciences, 800,000 RMB
-* Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation, 240,000 RMB
-* Fellowship from the China Postdoctoral Science Foundation, 80,000 RMB
+* Special Research Assistant of the Chinese Academy of Sciences, 2023, 800,000 RMB
+* Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation, 2024, 240,000 RMB
+* Fellowship from the China Postdoctoral Science Foundation, 2024, 80,000 RMB
   
 <!-- Teaching
 ======
