@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc at Institute of High Energy Physics and China Center of Advanced Science and Technology. I got my Ph.D degree from Institute of High Energy Physics in 2023, Supervisd by Prof. Hai-Bo Li (very lucky).
+I'm currently a postdoc at Institute of High Energy Physics and China Center of Advanced Science and Technology. I got my Ph.D degree from Institute of High Energy Physics in 2023, Supervisd by Prof. Hai-Bo Li (very lucky).
