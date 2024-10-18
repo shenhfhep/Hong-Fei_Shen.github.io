@@ -42,6 +42,16 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Award
+======
+* BESIII PhD Thesis Award 2023
+
+Fonds
+======
+* Special Research Assistant of the Chinese Academy of Sciences, 800,000 RMB
+* Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation, 240,000 RMB
+* Fellowship from the China Postdoctoral Science Foundation, 80,000 RMB
   
 <!-- Teaching
 ======
