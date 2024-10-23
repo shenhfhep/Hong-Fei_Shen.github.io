@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoc at Institute of High Energy Physics and China Center of Advanced Science and Technology. I got my Ph.D degree from Institute of High Energy Physics in 2023, supervisd by Prof. Hai-Bo Li.
+I'm currently a postdoc at the Institute of High Energy Physics and the China Center of Advanced Science and Technology. I got my Ph.D degree from the Institute of High Energy Physics in 2023, supervised by Prof. Hai-Bo Li.
 
-I'm a member of the international collaboration BESIII.
+I'm a member of the international collaboration BESIII， working on hyperon physics.
