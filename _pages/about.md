@@ -14,9 +14,16 @@ I'm a member of the international collaboration BESIII, working on hyperon physi
 Below are some photos of me:
 
 My Ph.D supervisor Prof. Hai-Bo Li and me
-![Editing a markdown file for a talk](/images/withHaibo.jpg)
+![Haibo](/images/withHaibo.jpg)
 
+Prof. Steve Olsen and me
+![Olsen](/images/withOlsen.jpg)
 
+Prof. Sheldon Glashow and me
+![Glashow](/images/withGlashow.jpg)
 
+Prof. David Gross and me
+![Gross](/images/withGross.jpg)
 
-
+Prof. David Gross and me
+![Gross](/images/withGross.jpg)
