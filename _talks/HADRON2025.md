@@ -3,7 +3,7 @@ title: "Hyperon physics at BESIII"
 collection: talks
 type: "Talk"
 permalink: https://indico.rcnp.osaka-u.ac.jp/event/2402/contributions/14887/
-venue: "The 21st International Conference on Hadron Spectroscopy and Structure, Toyonaka Campus, Osaka University"
+venue: "The 21st International Conference on Hadron Spectroscopy and Structure, Toyonaka Campus"
 date: 2025-03-26
 location: "Osaka University, Japan"
 ---
