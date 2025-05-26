@@ -17,7 +17,7 @@ My Ph.D supervisor Prof. Hai-Bo Li and me
 ![Haibo](/images/withHaibo.jpg)
 
 Prof. Steve Olsen and me
-![Olsen](/images/withOlsen.jpg)
+![Olsen](/images/withSteve.jpg)
 
 Prof. David Gross and me
 ![Gross](/images/withGross.jpg)
