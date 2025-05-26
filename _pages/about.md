@@ -20,6 +20,6 @@ My Ph.D supervisor Prof. Hai-Bo Li and me
    width="250" 
    alt="Me" 
    title="Me"
-   src="./images/withHaibo.jpg">
+   src="images/withHaibo.jpg">
 
 
