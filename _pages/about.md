@@ -15,5 +15,5 @@ Below are some photos of me:
 
 
 ![Graduation photo](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg)
-
+![Olsen]({{ '/images/withOlsen.jpg' | relative_url }})
 
