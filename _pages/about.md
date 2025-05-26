@@ -14,7 +14,7 @@ I'm a member of the international collaboration BESIII, working on hyperon physi
 Below are some photos of me:
 
 My Ph.D supervisor Prof. Hai-Bo Li and me
-![Editing a markdown file for a talk](/images/Haibo.jpg)
+![Editing a markdown file for a talk](/images/withHaibo.jpg)
 
 
 
