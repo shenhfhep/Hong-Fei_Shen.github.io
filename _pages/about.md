@@ -27,3 +27,5 @@ Prof. Sheldon Glashow and me
 
 Prof. Luciano Maiani and me
 ![Gross](/images/withMaiani.jpg)
+
+![Editing a markdown file for a talk](/images/withHaibo.jpg)
