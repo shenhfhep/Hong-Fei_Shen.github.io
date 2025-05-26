@@ -11,6 +11,7 @@ I'm currently a postdoc at the Institute of High Energy Physics and the China Ce
 
 I'm a member of the international collaboration BESIII, working on hyperon physics.
 
+Below are some photos of me:
 ![Graduation photo](/images/withHaibo.jpg)
 ![Olsen photo](/images/withOlsen.jpg)
 ![Gross photo](/images/withGross.jpg)
