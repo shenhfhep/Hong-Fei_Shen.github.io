@@ -16,5 +16,7 @@ Below are some photos of me:
 My Ph.D supervisor Prof. Hai-Bo Li and me
 ![1](/images/withHaibo.jpg)
 
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
