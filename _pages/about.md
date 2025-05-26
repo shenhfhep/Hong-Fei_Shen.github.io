@@ -13,8 +13,7 @@ I'm a member of the international collaboration BESIII, working on hyperon physi
 
 Below are some photos of me:
 
-
-![haibo](/images/withHaibo.png)
+![Editing a markdown file for a talk](/images/withHaibo.png)
 
 
 
