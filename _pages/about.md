@@ -16,16 +16,6 @@ Below are some photos of me:
 My Ph.D supervisor Prof. Hai-Bo Li and me
 ![Haibo](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg)
 
-Prof. Steve Olsen and me
-![Olsen](/images/withOlsen.png)
 
-Prof. David Gross and me
-![Gross](/images/withGross.jpg)
 
-Prof. Sheldon Glashow and me
-![Glashow](/images/withGlashow.jpg)
 
-Prof. Luciano Maiani and me
-![Gross](/images/withMaiani.jpg)
-
-![Editing a markdown file for a talk](/images/withHaibo.jpg)
