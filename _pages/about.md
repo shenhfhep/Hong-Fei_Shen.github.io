@@ -18,6 +18,6 @@ Below are some photos of me:
 <!-- Markdown 写法 -->
 
 <!-- HTML 精细控制 -->
-<img src="{{ 'https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withOlsen.jpg' | relative_url }}" 
+<img src="{{ 'https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withOlsen' | relative_url }}" 
      alt="实验室工作照" 
      style="width: 45%; margin: 10px;">
