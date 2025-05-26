@@ -15,9 +15,4 @@ Below are some photos of me:
 
 
 ![Graduation photo](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg)
-<!-- Markdown 写法 -->
-
-<!-- HTML 精细控制 -->
-<img src="{{ 'https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo' | relative_url }}" 
-     alt="实验室工作照" 
-     style="width: 45%; margin: 10px;">
+![Editing a markdown file for a talk](images/withOlsen.jpg)
