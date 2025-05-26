@@ -15,6 +15,8 @@ Below are some photos of me:
 
 
 ![Editing a markdown file for a talk](/images/withHaibo.jpg)
+![Editing a markdown file for a talk](/images/withOlsen.png)
+
 
 
 
