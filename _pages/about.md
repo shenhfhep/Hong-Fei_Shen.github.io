@@ -14,5 +14,9 @@ I'm a member of the international collaboration BESIII, working on hyperon physi
 Below are some photos of me:
 
 
-![Graduation photo](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg)
+![Editing a markdown file for a talk](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg)
 ![Editing a markdown file for a talk](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withOlsen.jpg)
+![Editing a markdown file for a talk](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withGross.jpg)
+![Editing a markdown file for a talk](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withGlashow.jpg)
+![Editing a markdown file for a talk](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withMaiani.jpg)
+![Editing a markdown file for a talk](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/ThesisDefense.jpg)
