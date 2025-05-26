@@ -15,4 +15,4 @@ Below are some photos of me:
 
 
 ![Graduation photo](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg)
-![Editing a markdown file for a talk](images/withOlsen.jpg)
+![Editing a markdown file for a talk](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withOlsen.jpg)
