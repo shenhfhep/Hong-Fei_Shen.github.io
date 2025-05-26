@@ -15,8 +15,5 @@ Below are some photos of me:
 
 
 ![Graduation photo](/images/withHaibo.jpg)
-![Olsen photo](/images/withOlsen.jpg)
-![Gross photo](/images/withGross.jpg)
-![Glashow photo](/images/withGlashow.jpg)
-![Maiani photo](/images/withMaiani.jpg)
+
 
