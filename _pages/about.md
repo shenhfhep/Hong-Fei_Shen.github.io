@@ -14,6 +14,6 @@ I'm a member of the international collaboration BESIII, working on hyperon physi
 Below are some photos of me:
 
 
-![Graduation photo](https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg)
+![Graduation photo](https://via.placeholder.com/200x100.png/4183c4/ffffff?text=Test1)
 ![Olsen]({{ '/images/withOlsen.jpg' | relative_url }})
 
