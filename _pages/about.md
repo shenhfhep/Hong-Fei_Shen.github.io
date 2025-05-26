@@ -19,11 +19,11 @@ My Ph.D supervisor Prof. Hai-Bo Li and me
 Prof. Steve Olsen and me
 ![Olsen](/images/withOlsen.jpg)
 
+Prof. David Gross and me
+![Gross](/images/withGross.jpg)
+
 Prof. Sheldon Glashow and me
 ![Glashow](/images/withGlashow.jpg)
 
-Prof. David Gross and me
-![Gross](/images/withGross.jpg)
-
-Prof. David Gross and me
-![Gross](/images/withGross.jpg)
+Prof. Luciano Maiani and me
+![Gross](/images/withMaiani.jpg)
