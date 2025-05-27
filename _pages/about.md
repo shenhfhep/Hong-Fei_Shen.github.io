@@ -16,29 +16,5 @@ Below are some photos of me:
 My Ph.D supervisor Prof. Hai-Bo Li and me
 ![1](/images/withHaibo.jpg)
 
-<figure>
-< img style="border:1px solid black;" 
-     alt="Start of LHC Run 3" 
-     title="Start of LHC Run 3"
-     src="images/withOlesen.png">
-  <figcaption>5 July 2022: The start of LHC Run 3 in the CMS control room [Sarah Charley: Symmetry Magazine] </figcaption>
-</figure>
-
-
-<div style="display: flex; justify-content: space-around;">
-  <figure style="height: 350px;">
-    < img style="border:1px solid black; height: 100%;" 
-         alt="CMS during LS2" 
-         title="CMS during LS2"
-         src="https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg">
-    <figcaption>The CMS detector (and myself) during LHC LS2 (Long Shutdown 2)</figcaption>
-  </figure>
-   
-  <figure style="height: 350px;">
-    < img style="border:1px solid black; height: 100%;" 
-         alt="ATLAS in January 2024" 
-         title="ATLAS in January 2024"
-         src="images/withOlesen.png">
-    <figcaption>The ATLAS detector (and myself) in January 2024</figcaption>
-  </figure>
-</div>
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
