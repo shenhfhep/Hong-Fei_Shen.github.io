@@ -30,7 +30,7 @@ My Ph.D supervisor Prof. Hai-Bo Li and me
     < img style="border:1px solid black; height: 100%;" 
          alt="CMS during LS2" 
          title="CMS during LS2"
-         src="images/withOlesen.png">
+         src="https://github.com/shenhfhep/Hong-Fei_Shen.github.io/blob/master/images/withHaibo.jpg">
     <figcaption>The CMS detector (and myself) during LHC LS2 (Long Shutdown 2)</figcaption>
   </figure>
    
