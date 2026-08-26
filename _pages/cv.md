@@ -27,7 +27,7 @@ Research interests
 * Hyperon and antihyperon physics
 * Antihyperon–nucleon interactions
 * CP-symmetry tests with entangled hyperon–antihyperon pairs
-* Hyperon weak decays, isospin symmetry, and the \(\Delta I = 1/2\) rule
+* Hyperon weak decays, isospin symmetry, and the ΔI = 1/2 rule
 * Strange hadrons and hadron spectroscopy
 * Charmonium decays and nonperturbative QCD
   
