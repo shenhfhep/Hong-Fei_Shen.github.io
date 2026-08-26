@@ -2,7 +2,6 @@
 title: "Search for ΔS = 2 nonleptonic hyperon decays Ω− → Σ0π− and Ω− → nK−"
 collection: publications
 category: manuscripts
-permalink: https://link.springer.com/article/10.1007/JHEP05(2024)141
 excerpt: 'Corresponding author'
 date: 2024-05-13
 venue: 'Journal of High Energy Physics'

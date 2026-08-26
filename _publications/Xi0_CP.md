@@ -2,7 +2,6 @@
 title: "Tests of CP symmetry in entangled Ξ0 anti-Ξ0 pairs"
 collection: publications
 category: manuscripts
-permalink: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.L031106
 excerpt: 'De facto first author and corresponding author'
 date: 2023-08-01
 venue: 'Physical Review D (Letter; Editors’ Suggestion)'

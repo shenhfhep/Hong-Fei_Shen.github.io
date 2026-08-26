@@ -2,7 +2,6 @@
 title: "Measurements of the absolute branching fractions of Ω− decays and test of the ΔI = 1/2 rule"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1103/PhysRevD.108.L091101
 excerpt: 'De facto first author and corresponding author'
 date: 2023-11-01
 venue: 'Physical Review D (Letter)'

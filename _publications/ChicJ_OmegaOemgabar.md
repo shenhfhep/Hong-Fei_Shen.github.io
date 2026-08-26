@@ -2,7 +2,6 @@
 title: "Observation of the decay χcJ → Ω− anti-Ω+"
 collection: publications
 category: manuscripts
-permalink: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.092004
 excerpt: 'De facto first author and corresponding author'
 date: 2023-05-01
 venue: 'Physical Review D'

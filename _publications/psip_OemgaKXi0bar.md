@@ -2,7 +2,6 @@
 title: "Observation of ψ(3686) → Ω−K+ anti-Ξ0 + c.c."
 collection: publications
 category: manuscripts
-permalink: https://link.springer.com/article/10.1007/JHEP04(2024)013
 excerpt: 'Corresponding author'
 date: 2024-04-03
 venue: 'Journal of High Energy Physics'
