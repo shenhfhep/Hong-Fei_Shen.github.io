@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a postdoc at the Institute of High Energy Physics and the China Center of Advanced Science and Technology. I got my Ph.D degree from the Institute of High Energy Physics in 2023, supervised by Prof. Hai-Bo Li. After my graduation, I was awarded the BESIII Ph.D Thesis Award for my contribution to the collaboration.
+I am a postdoctoral researcher in the Department of Physics at **Indiana University Bloomington**. Before joining Indiana University in March 2026, I was a postdoctoral researcher at the **Institute of High Energy Physics, Chinese Academy of Sciences** (2023–2026). I received my Ph.D. in experimental particle physics from the Institute of High Energy Physics in 2023 under the supervision of Prof. Hai-Bo Li.
 
-I'm a member of the international collaboration BESIII, working on hyperon physics.
+I am a member of the **BESIII Collaboration**. My research focuses on experimental hadron physics, with particular interests in:
 
+* hyperon and antihyperon physics;
+* antihyperon–nucleon interactions;
+* tests of CP symmetry in entangled hyperon–antihyperon systems;
+* hyperon weak decays, isospin symmetry, and the \(\Delta I = 1/2\) rule;
+* strange-hadron dynamics; and
+* charmonium decays and nonperturbative QCD.
+
+Recent highlights include the first observation of exclusive \(\bar{\Lambda}p\) annihilation channels ([*Phys. Rev. Lett.* **136**, 171904 (2026)](https://doi.org/10.1103/PhysRevLett.136.171904)), strong and weak CP tests with polarized \(\Sigma^0\) hyperons ([*Phys. Rev. Lett.* **133**, 101902 (2024)](https://doi.org/10.1103/PhysRevLett.133.101902)), precise CP tests with entangled \(\Xi^0\bar{\Xi}^0\) pairs ([*Phys. Rev. D* **108**, L031106 (2023), Editors' Suggestion](https://doi.org/10.1103/PhysRevD.108.L031106)), and tests of the \(\Delta I = 1/2\) rule in \(\Sigma^+\) weak decays ([*Phys. Rev. D* **113**, L071301 (2026)](https://doi.org/10.1103/PhysRevD.113.L071301)).
