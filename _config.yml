@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage for Hong-Fei Shen"
 title_separator          : "-"
 name                     : &name "Hong-Fei Shen"
-description              : &description "enthusiastic"
+description              : &description "Experimental particle physicist working on hyperon and hadron physics"
 url                      : https://shenhfhep.github.io/Hong-Fei_Shen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shenhfhep/Hong-Fei_Shen.github.io"
@@ -26,11 +26,11 @@ author:
   avatar           : "证件照.jpg" #"https://s21.ax1x.com/2024/10/17/pAUkAPO.jpg" #头像
   name             : "Hong-Fei Shen"
   pronouns         : "he" # example: "she/her"  
-  bio              : "Enjoy a good life!"
-  location         : "19 YUQUAN ROAD, SHIJINGSHAN DISTRICT, BEIJING, CHINA"
-  employer         : "Institute of High Energy Physics"
+  bio              : "Experimental particle physicist studying hyperons, CP symmetry, and hadron interactions."
+  location         : "Bloomington, Indiana, USA"
+  employer         : "Indiana University Bloomington"
   uri              : # URL
-  email            : "shenhongfei@ihep.ac.cn" 
+  email            : "shenho@iu.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
