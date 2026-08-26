@@ -68,10 +68,10 @@ Selected funding
 
 Service and mentoring
 ======
-* Member of internal review committees for five BESIII papers and institutional representative during collaboration-wide paper reviews.
-* Regular participant in BESIII data-acquisition shifts.
+* Member of internal review committees for numerous BESIII papers and institutional representative during collaboration-wide paper reviews.
+* Regular participant in BESIII data-acquisition shifts, including service as Weekly Run Coordinator.
 * Contributor to discussions and validation of the refined vertex-fit algorithm for long-lived particles in the BESIII software environment.
-* Since 2023, participated in supervising research projects for five master's and doctoral students.
+* Since 2023, participated in supervising research projects for numerous master's and doctoral students.
   
 <!-- Teaching
 ======
