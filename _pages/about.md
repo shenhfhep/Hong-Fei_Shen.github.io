@@ -22,6 +22,10 @@ research_gallery:
     url: research-moments/04-academic-exchange.jpg
     title: "Academic exchange at IHEP"
     alt: "Hong-Fei Shen during an academic exchange at IHEP"
+  - image_path: research-moments/05-academic-exchange-2.jpg
+    url: research-moments/05-academic-exchange-2.jpg
+    title: "With an invited scholar"
+    alt: "Hong-Fei Shen with an invited scholar"
   - image_path: research-moments/05-academic-visitor-v2.jpg
     url: research-moments/05-academic-visitor-v2.jpg
     title: "With an academic visitor"
@@ -49,6 +53,6 @@ I am a member of the **BESIII Collaboration**. My research focuses on experiment
 
 Recent highlights include the first observation of exclusive Λ̄p annihilation channels ([*Phys. Rev. Lett.* **136**, 171904 (2026)](https://journals.aps.org/prl/abstract/10.1103/x17s-xsgn)), strong and weak CP tests with polarized Σ⁰ hyperons ([*Phys. Rev. Lett.* **133**, 101902 (2024)](https://doi.org/10.1103/PhysRevLett.133.101902)), precise CP tests with entangled Ξ⁰Ξ̄⁰ pairs ([*Phys. Rev. D* **108**, L031106 (2023), Editors' Suggestion](https://doi.org/10.1103/PhysRevD.108.L031106)), and tests of the ΔI = 1/2 rule in Σ⁺ weak decays ([*Phys. Rev. D* **113**, L071301 (2026)](https://journals.aps.org/prd/abstract/10.1103/4kb2-9dz7)).
 
-## Academic Journey
+## Snapshots from research, collaboration, and academic life.
 
-{% include gallery id="research_gallery" class="research-moments" caption="Snapshots from research, collaboration, and academic life." %}
+{% include gallery id="research_gallery" class="research-moments" %}
