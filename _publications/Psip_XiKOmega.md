@@ -5,6 +5,6 @@ category: manuscripts
 excerpt: 'Major contributor'
 date: 2025-06-30
 venue: 'Journal of High Energy Physics'
-paperurl: 'https://doi.org/10.1007/JHEP06(2025)233'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/JHEP06(2025)233.pdf'
 citation: 'BESIII Collaboration, JHEP 06 (2025) 233.'
 ---

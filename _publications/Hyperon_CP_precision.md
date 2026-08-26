@@ -5,6 +5,6 @@ category: manuscripts
 excerpt: 'Major contributor'
 date: 2026-05-21
 venue: 'Physical Review Letters'
-paperurl: 'https://doi.org/10.1103/PhysRevLett.136.201802'
+paperurl: 'https://journals.aps.org/prl/pdf/10.1103/c1fz-9r8q'
 citation: 'BESIII Collaboration, Phys. Rev. Lett. 136 (2026) 20, 201802.'
 ---

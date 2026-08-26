@@ -5,6 +5,6 @@ category: manuscripts
 excerpt: 'De facto first author and corresponding author'
 date: 2026-04-30
 venue: 'Physical Review Letters'
-paperurl: 'https://doi.org/10.1103/PhysRevLett.136.171904'
+paperurl: 'https://journals.aps.org/prl/pdf/10.1103/x17s-xsgn'
 citation: 'BESIII Collaboration, Phys. Rev. Lett. 136 (2026) 17, 171904.'
 ---
