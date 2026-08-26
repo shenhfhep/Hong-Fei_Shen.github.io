@@ -232,6 +232,48 @@ figure {
   }
 }
 
+/* Homepage research-moments gallery */
+figure.research-moments {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75em;
+
+  > a {
+    width: 100%;
+    overflow: hidden;
+    border-radius: $border-radius;
+  }
+
+  > a img {
+    display: block;
+    aspect-ratio: 4 / 3;
+    height: 100%;
+    margin: 0;
+    object-fit: cover;
+  }
+
+  figcaption {
+    grid-column: 1 / -1;
+  }
+
+  @include breakpoint($small) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+
+    > a {
+      height: 12em;
+    }
+
+    > a:first-of-type {
+      grid-row: span 2;
+      height: calc(24em + 0.75em);
+    }
+
+    > a:last-of-type {
+      grid-column: span 2;
+    }
+  }
+}
+
 /* Figure captions */
 
 figcaption {
