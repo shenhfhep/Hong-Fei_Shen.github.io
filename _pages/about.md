@@ -22,8 +22,8 @@ research_gallery:
     url: research-moments/04-academic-exchange.jpg
     title: "Academic exchange at IHEP"
     alt: "Hong-Fei Shen during an academic exchange at IHEP"
-  - image_path: research-moments/05-academic-visitor.jpg
-    url: research-moments/05-academic-visitor.jpg
+  - image_path: research-moments/05-academic-visitor-v2.jpg
+    url: research-moments/05-academic-visitor-v2.jpg
     title: "With an academic visitor"
     alt: "Hong-Fei Shen with an academic visitor"
   - image_path: research-moments/06-academic-colleague.jpg
