@@ -8,6 +8,6 @@ date: 2026-07-30
 location: "Natal, Brazil"
 ---
 
-Parallel talk, July 30–August 5, 2026.
-
 [More information here](https://indico.cern.ch/event/1522800/contributions/6982753/)
+
+Parallel talk, July 30–August 5, 2026.
