@@ -10,6 +10,10 @@ research_gallery:
     url: research-moments/01-besiii-detector.jpg
     title: "At the BESIII detector"
     alt: "Hong-Fei Shen at the BESIII detector"
+  - image_path: research-moments/07-phd-graduation.jpg
+    url: research-moments/07-phd-graduation.jpg
+    title: "Ph.D. graduation"
+    alt: "Hong-Fei Shen at his Ph.D. graduation"
   - image_path: research-moments/02-ihep-visit.jpg
     url: research-moments/02-ihep-visit.jpg
     title: "Academic visit at IHEP"
@@ -34,10 +38,6 @@ research_gallery:
     url: research-moments/06-academic-colleague.jpg
     title: "With a colleague"
     alt: "Hong-Fei Shen with a colleague"
-  - image_path: research-moments/07-phd-graduation.jpg
-    url: research-moments/07-phd-graduation.jpg
-    title: "Ph.D. graduation"
-    alt: "Hong-Fei Shen at his Ph.D. graduation"
 ---
 
 I am a postdoctoral researcher in the Department of Physics at **Indiana University Bloomington**, working with Prof. Ryan Mitchell. Before joining Indiana University in March 2026, I was a postdoctoral researcher at the **Institute of High Energy Physics, Chinese Academy of Sciences** (2023–2026), where I worked with Prof. Xiaoyan Shen. I received my Ph.D. in experimental particle physics from the Institute of High Energy Physics in 2023 under the supervision of Prof. Hai-Bo Li.
