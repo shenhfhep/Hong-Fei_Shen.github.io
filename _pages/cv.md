@@ -68,6 +68,7 @@ Selected funding
 
 Service and mentoring
 ======
+* Served as a session chair at the 17th International Conference on Meson-Nucleon Physics and the Structure of the Nucleon (MENU 2026).
 * Member of internal review committees for numerous BESIII papers and institutional representative during collaboration-wide paper reviews.
 * Regular participant in BESIII data-acquisition shifts, including service as Weekly Run Coordinator.
 * Contributor to discussions and validation of the refined vertex-fit algorithm for long-lived particles in the BESIII software environment.
