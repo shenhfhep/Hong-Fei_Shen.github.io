@@ -66,13 +66,13 @@ Selected funding
 * Fellowship from the China Postdoctoral Science Foundation, 2024
 * Special Research Assistant Program, Chinese Academy of Sciences, 2023
 
-Service and mentoring
+Academic and Professional Service
 ======
-* Served as a session chair at the 17th International Conference on Meson-Nucleon Physics and the Structure of the Nucleon (MENU 2026).
-* Member of internal review committees for numerous BESIII papers and institutional representative during collaboration-wide paper reviews.
-* Regular participant in BESIII data-acquisition shifts, including service as Weekly Run Coordinator.
-* Contributor to discussions and validation of the refined vertex-fit algorithm for long-lived particles in the BESIII software environment.
-* Since 2023, participated in supervising research projects for numerous master's and doctoral students.
+* Journal Referee: \textit{Chinese Physics C}
+* Internal Paper Reviewer:  BESIII Collaboration (served on multiple internal paper review committees)
+* Conference Session Chair: 17th International Conference on Meson-Nucleon Physics and the Structure of the Nucleon (MENU2026)
+* BESIII Collaboration Service: Data-taking shifts (weekly coordinator) and software-related contributions
+* Graduate Student Mentoring: Mentored multiple M.Sc. and Ph.D. students on BESIII research projects since 2023
   
 <!-- Teaching
 ======
