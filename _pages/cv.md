@@ -68,7 +68,7 @@ Selected funding
 
 Academic and Professional Service
 ======
-* Journal Referee: \textit{Chinese Physics C}
+* Journal Referee: Chinese Physics C
 * Internal Paper Reviewer:  BESIII Collaboration (served on multiple internal paper review committees)
 * Conference Session Chair: 17th International Conference on Meson-Nucleon Physics and the Structure of the Nucleon (MENU2026)
 * BESIII Collaboration Service: Data-taking shifts (weekly coordinator) and software-related contributions
